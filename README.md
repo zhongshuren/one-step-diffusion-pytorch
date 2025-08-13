@@ -14,7 +14,7 @@ x = model(noise, c=condition)
 ```
 
 ## Evaluation result from the toy dataset
-![](D:\code3\one-step-diffusion-pytorch\assets\result.png)
+![](assets/result.png)
 
 ## TODO list
 
