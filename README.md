@@ -25,4 +25,5 @@ CFG sampling (not sure if it is implemented correctly)
 ## Code references
 
 https://github.com/yukara-ikemiya/modified-shortcut-models-pytorch
+
 https://github.com/haidog-yaqub/MeanFlow
